@@ -69,8 +69,8 @@ await client.query(`
 
         const defaultSettings = {
             prefix: '.',
-            packname: 'dreaded md2 🤖',
-            mode: 'public',
+            packname: 'Gabby',
+            mode: 'private',
             presence: 'typing',
             autoview: 'true',
             autolike: 'true',
